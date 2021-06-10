@@ -1,5 +1,5 @@
 <div align="center">
-<img width="60%" height = "400px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" alt="cover" />
+<img width="60%" height = "400px" src="https://tenor.com/view/naruto-uzumaki-gif-21018006" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
