@@ -60,6 +60,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-
+<div align="center">
+<img width="60%" height = "400px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" alt="cover" />
+</div>
+  
+  
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
