@@ -61,7 +61,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <div align="center">
-<img width="60%" height = "400px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" alt="cover" />
+<img width="60%" height = "400px" src="http://38.media.tumblr.com/c5f1df280fa287943dad93af323d37ed/tumblr_nvs2d9mdfI1s31fzzo1_500.gif" alt="cover" />
 </div>
   
   
