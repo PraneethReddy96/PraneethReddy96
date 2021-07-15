@@ -1,10 +1,9 @@
 
 <div align="center">
 <h1> Hi there!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Praneeth </h1>
+<h3> I am an Android Applicaication Developer from Hyderabad, India.</b> :smile: </h3>
 <p align='center'>
-  
-  <h2> I am an Android Applicaication Developer from Hyderabad, India.</b> :smile: </h2>
-  </div>
+ </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PraneethReddy96.PraneethReddy96)
 
@@ -17,17 +16,25 @@
 
 <img width="55%" align="right" alt="Github" src=https://camo.githubusercontent.com/35400d6e1d5297b1ac1214421fbf49ab8785a9541f292f7636216a8a00ed9164/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f646d716f7a5075645a6f7236794633564b2f67697068792e676966 />
 
-<li> 🔭 
+<li> 🔭  I’m skilled in <b>App Development, Java, Kotlin.</b>
 
-<li> 🌱 I’m currently learning to be a full fledged Android Application Developer. 
+<li> 👨‍💻 All of my projects are available at <a href="https://praneethreddy96.wixsite.com/portfolio">Portfolio</a>. 
+
+<li> 📄 You can check my Resume <a href="https://drive.google.com/drive/folders/1gtlPhO1CeBRJogzzzMJ1bCC3ICE-18Sp?usp=sharing">here</a>.
   
-<li> 👯 I’m looking to collaborate on Projects,Tech Articles and  am always eager to explore new
-  <a href="https://www.wikihow.com/">Link text</a> technologies.
- 
-<li> 💬 Talk to me about Android, Java, Kotlin, Freelancing Opportunities, Open Source contirbutions.. etc.. 
+<li> 📝 I write articles on <a href="https://praneeth-t96.medium.com/">Medium</a>.
+  
+<li> 📫 You can raech me at <b>praneeth.t96@gmail.com</b>
+  
+<li> 💬 Talk to me about <b>Android, Java, Kotlin,Data Structure and Algorithms, Freelancing Opportunities, Open Source contirbutions. </b>
 
-   
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ 
+
+
+
+⚡ Fun fact I do use Stack Overflow
+
+  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/PraneethReddy96?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
   </a>
 <a href= https://github.com/PraneethReddy96?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'>
@@ -69,7 +76,7 @@
 </div>
 
   <div align="center">
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h3> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h3>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
   
