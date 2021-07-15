@@ -22,9 +22,9 @@
 
 <li> 📄 You can check my Resume <a href="https://drive.google.com/drive/folders/1gtlPhO1CeBRJogzzzMJ1bCC3ICE-18Sp?usp=sharing">here</a>.
   
-<li> 📝 I write articles on <a href="https://praneeth-t96.medium.com/">Medium</a>.
-  
 <li> 📫 You can raech me at <b>praneeth.t96@gmail.com</b>.
+
+<li> 📝 I write articles on <a href="https://praneeth-t96.medium.com/">Medium</a>.
   
 <li> 💬 Talk to me about <b>Android, Java, Kotlin,Data Structure and Algorithms, Freelancing Opportunities, Open Source contirbutions. </b>
 
