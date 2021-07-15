@@ -2,14 +2,14 @@
 <div align="center">
 <h1> Hi there!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Praneeth </h1>
 <p align='center'>
+  
+  <h2> I am an Android Applicaication Developer from Hyderabad, India.</b> :smile: </h2>
   </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PraneethReddy96.PraneethReddy96)
 
 </p>
 
-
-<div size='20px'> <b>I am an Android Applicaication Developer from Hyderabad, India.</b> :smile: 
 
 
 
@@ -75,8 +75,9 @@
   
   </div>
 <br>
+<div align="center">
 <footer align='center'>Made with ❤️ by Praneeth Reddy </footer>
-
+</div>
   
   
   
