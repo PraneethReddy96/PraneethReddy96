@@ -21,7 +21,7 @@
 
 <li> 👨‍💻 All of my projects are available at <a href="https://praneethreddy96.wixsite.com/portfolio">Portfolio</a>. 
 
-<li> 📄 You can check my Resume <a href="https://drive.google.com/drive/folders/1gtlPhO1CeBRJogzzzMJ1bCC3ICE-18Sp?usp=sharing">here</a>.
+<li> 📄 You can check my Resume <a href="https://drive.google.com/file/d/1QTCGJWfT-bSuR7HHlcEloEdOLIp3Gys4/view?usp=sharing">here</a>.
   
 <li> 📫 You can raech me at <b>praneeth.t96@gmail.com</b>.
 
