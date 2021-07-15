@@ -76,7 +76,7 @@
   </div>
 <br>
 <div align="center">
-<footer align='center'>Made with ❤️ by Praneeth Reddy </footer>
+<footer align='center'>Made with ❤️ by Praneeth Reddy. </footer>
 </div>
   
   
