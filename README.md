@@ -9,7 +9,7 @@
 </p>
 
 
-<div size='20px'> <b> An Android Applicaication Developer from Hyderabad, India.</b> :smile: 
+<div size='20px'> <b>I am an Android Applicaication Developer from Hyderabad, India.</b> :smile: 
 
 
 
