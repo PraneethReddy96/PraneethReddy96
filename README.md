@@ -9,13 +9,12 @@
 </p>
 
 
-<div align="center">
 <div size='20px'> <b> An Android Applicaication Developer from Hyderabad, India.</b> :smile: 
 
 
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-</div>
+
 <img width="55%" align="right" alt="Github" src=https://camo.githubusercontent.com/35400d6e1d5297b1ac1214421fbf49ab8785a9541f292f7636216a8a00ed9164/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f646d716f7a5075645a6f7236794633564b2f67697068792e676966 />
 
 <li> 🔭 
