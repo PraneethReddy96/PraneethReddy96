@@ -23,7 +23,7 @@
 
 <li> 📄 You can check my Resume <a href="https://drive.google.com/file/d/1QTCGJWfT-bSuR7HHlcEloEdOLIp3Gys4/view?usp=sharing">here</a>.
   
-<li> 📫 You can raech me at <b>praneeth.t96@gmail.com</b>.
+<li> 📫 You can reach me at <b>praneeth.t96@gmail.com</b>.
 
 <li> 📝 I write articles on <a href="https://praneeth-t96.medium.com/">Medium</a>.
   
