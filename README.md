@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src=https://camo.githubusercontent.com/35400d6e1d5297b1ac1214421fbf49ab8785a9541f292f7636216a8a00ed9164/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f646d716f7a5075645a6f7236794633564b2f67697068792e676966 />
 
 
-<li> 🔭  I’m skilled in <b>App Development, Java, Kotlin.</b>
+<li> 🔭  I’m skilled in <b> Android App Development(Native), Java, Kotlin.</b>
 
 <li> 👨‍💻 All of my projects are available at <a href="https://praneethreddy96.wixsite.com/portfolio">Portfolio</a>. 
 
@@ -27,7 +27,7 @@
 
 <li> 📝 I write articles on <a href="https://praneeth-t96.medium.com/">Medium</a>.
   
-<li> 💬 Talk to me about <b>Android, Java, Kotlin,Data Structure and Algorithms, Freelancing Opportunities, Open Source contirbutions. </b>
+<li> 💬 Talk to me about <b>Android, Java, Kotlin, Jetpack Compose, Data Structure and Algorithms, Freelancing Opportunities, Open Source contirbutions. </b>
 
  
  
